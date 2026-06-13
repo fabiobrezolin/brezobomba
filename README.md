@@ -58,5 +58,4 @@ Os resultados científicos demonstraram que a mediação física do dispositivo 
 *   **Disponibilidade:** Produto educacional registrado e disponível publicamente via plataforma **CAPES / Educapes**.
 
 ---
-### 🧬 Conecte-se com o Pesquisador
-[Currículo Lattes](http://cnpq.br) | [ORCID ID](https://orcid.org)
+
