@@ -13,6 +13,7 @@ O ecossistema não se limita à execução de tarefas de hardware; sua arquitetu
 3. **Educação Ambiental Crítica (Lei 9.795/99 & ODS 3):** Contextualização do aprendizado partindo da realidade cotidiana do estudante, alinhado à meta 3.9 da ONU para redução de impactos por poluição do ar.
 
 ![Esquema dos Componentes Metacognitivos](assets/componentes-metacognitivos.png)
+
 *Figura 1: Representação dos componentes e elementos metacognitivos adaptados na pesquisa.*
 
 ---
