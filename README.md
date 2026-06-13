@@ -30,6 +30,7 @@ O ecossistema é composto por uma arquitetura embarcada híbrida de baixo custo 
   <img src="assets/prototipo-frontal.png" width="45%" alt="Protótipo Frontal da Brezobomba" />
   <img src="assets/modelo-3d.png" width="45%" alt="Modelo 3D Ativo" />
 </p>
+
 *Figura 2: Modelagem tridimensional e protótipo físico finalizado do dispositivo IoT.*
 
 ---
@@ -41,6 +42,7 @@ A validação de impacto do dispositivo foi realizada sob uma abordagem de **inv
 *   **Tratamento Analítico:** Os dados e interações verbais gerados pelo uso do hardware foram validados à luz da *Análise de Conteúdo de Laurence Bardin*.
 
 ![Cenários de Aplicação com e sem Metacognição](assets/cenarios-comparativos.png)
+
 *Figura 3: Modelagem comparativa dos cenários de aplicação de tecnologia IoT em sala de aula mediada por estratégias metacognitivas.*
 
 Os resultados científicos demonstraram que a mediação física do dispositivo IoT gerou pensamentos sofisticados de hipóteses complexas, ampliando o poder de autonomia e decisão do estudante sobre o seu próprio processo de aprendizagem.
